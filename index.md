@@ -6,7 +6,7 @@ This page is formatted with [markdown syntax](https://www.markdownguide.org/chea
 
 ### Sem 2 2021/22
 
-1. [FYP I](https://unknownfan14.github.io/University-Notes/sem-2-2021-22/fyp-1)
+1. [FYP I](https://unknownfan14.github.io/University-Notes/fyp-1)
 2. ICT and Islam
 3. Cryptography
 4. Computation and Complexity
