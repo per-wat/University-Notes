@@ -11,4 +11,4 @@ This page is formatted with [markdown syntax](https://www.markdownguide.org/chea
 3. Cryptography
 4. Computation and Complexity
 5. Big Data
-6. Technopreneurship
+6. [Technopreneurship](https://unknownfan14.github.io/University-Notes/Sem-2-2021-22/techno)
