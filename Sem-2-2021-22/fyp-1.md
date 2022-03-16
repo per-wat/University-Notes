@@ -7,7 +7,7 @@
 > ### Brain Computer Interface Advancement in Neurosciences: Applications and Issues
 > *Mudgal S. K., Sharma S. K., Chaturvedi J., Sharma A.*
 >
-> **Introduction**
+> **Introduction**  
 > - Brain Computer Interface (BCI) provides direct communication between brain and bio-monitoring devices
 > - Does not involve any muscle or neuromuscular pathway to communicate
 > - Good to utilized in a paralyzed but conscious patient
