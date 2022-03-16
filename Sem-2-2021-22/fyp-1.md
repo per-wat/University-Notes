@@ -18,5 +18,22 @@
 >
 > **Types of BCIs**  
 > 
-> *1. Event related de-synchronization (ERD-BCI) and synchronization (ERS-BCI)*
-> - hdjshduhsd
+> *13. BCI and Entertainment & Games*
+> - Flying helicopters to any point either 2D or 3D world
+> - The Brain Arena
+>   : Football video game where can score goal by imagine left or  right hand movement
+>   : Player that is more relax and calmer usually wins
+>   : Could help with reduce stress and learn self control
+>
+> **BCIs Drawback**
+>
+> *1. Neuro-psycho-physiological Issues*
+> - Anatomy of brain could be too diverse
+> - Some people genetically couldn't produce sufficient signals for it to work
+> - Psychological like attention, memory, fatigue, stress, emotion.
+> - Person characteristics like age, gender, life-style
+>
+> *2. Technological Issues*
+>
+> *3. Ethical Issues*
+> 
