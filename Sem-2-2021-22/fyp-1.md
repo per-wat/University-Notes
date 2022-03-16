@@ -13,7 +13,10 @@
 > - Good to utilized in a paralyzed but conscious patient
 > - Before BCI used for physically disabled patients -> hand free devices
 > 
-> **What is BCI**
+> **What is BCI**  
 > A brain-computer interface (BCI) is a technology that receives, analyzes, and transfer the signals generated from brain into output commands in real world to accomplish a particular task
-
-
+>
+> **Types of BCIs**  
+> 
+> *1. Event related de-synchronization (ERD-BCI) and synchronization (ERS-BCI)*
+> - hdjshduhsd
