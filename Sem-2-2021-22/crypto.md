@@ -17,7 +17,7 @@ Symetric
 
 ***
 
-**CLassical Encryption**
+**Classical Encryption**
 
 Example of symetric is *Substitution Cipher* or called **Caesar Cipher**
 - We shifting the letter based on the key which is the shift number
