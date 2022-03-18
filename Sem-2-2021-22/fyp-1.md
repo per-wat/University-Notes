@@ -1,5 +1,59 @@
 # FYP 1 SEM 2 2021/22
 
+## TO DO LIST
+
+**31<sup>st</sup> March 2022**
+- [ ] Research or Development
+- [ ] Title
+  - Less than 10 words
+  - It should contains:
+    - The problem
+    - The method
+    - The output/solution
+- [ ] Description
+
+***
+
+**Progress Report**
+
+- [ ] Project Information
+- [ ] Introduction
+  - [ ] Project Overview
+    - Short description 1 paragraph
+    - Begining of proposal
+    - Explains everything bout your project
+    - ![Research Example](assets/Screenshot-2022-03-18-092515.png)
+    - ![Development Example](assets/Project-statement-development-example.png)
+  - [ ] Problem Statement
+    - Elaborate problem to solve
+    - 1 or 2 sentence
+    - Outline the negative points of current problem and why it matters
+  - [ ] Project Objective
+  - [ ] Significance of Project
+    - How useful to the target user
+  - [ ] Project Schedule
+    - Gantt Chart
+- [ ] Review of Previous Work
+  - Around 8-10 related papers
+    - What's their problem, how they solve, which methodology
+    - Look at the abstract of the paper
+    - list reference APA style
+- [ ] Methodology
+  - Explain process taken to achieve your project
+  - Can include flowchart showing your flow
+  - [ ] Design
+    - System, interfacem database, data collection
+  - [ ] Implementation
+    - How collect data, develop algorithm, build database, ui
+  - [ ] Testing
+    - Functional (system spec, requirement)
+    - Non-functional (performance, security)
+- [ ] Progress
+  - Explain in what have you acieved
+  - **DON'T LEAVE EMPTY!!!***
+
+***
+
 ### Reading Articles
 
 ***
