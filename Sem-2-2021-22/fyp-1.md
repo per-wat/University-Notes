@@ -14,6 +14,21 @@
 
 ***
 
+**Discuss With Dr. Hamwira**
+
+We need to think bout our title  
+My idea is splitted into 2
+
+> ### Idea 1
+> **Improving Sleep with Smart Home Automation using Brain Computer Interface**
+> Creating an environment to help user fall asleep easier based on their brain activity
+> Develop a system where it analyse user's brain and try to find the best way to help to sleep
+> Things need to consider:
+> - How can we detect one is cannot sleep
+> - 
+
+***
+
 **Progress Report**
 
 - [ ] Project Information
