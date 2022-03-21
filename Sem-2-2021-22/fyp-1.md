@@ -20,11 +20,14 @@ We need to think bout our title
 My idea is splitted into 2
 
 > ### Idea 1
-> **Improving Sleep with Smart Home Automation using Brain Computer Interface**
-> Creating an environment to help user fall asleep easier based on their brain activity
-> Develop a system where it analyse user's brain and try to find the best way to help to sleep
-> Things need to consider:
-> - How can we detect one is cannot sleep
+> **Improving Sleep with Smart Home Automation using Brain Computer Interface**  
+> Creating an environment to help user fall asleep easier based on their brain activity  
+> Develop a system where it analyse user's brain and try to find the best way to help to sleep  
+> Things need to consider:  
+> - How can we detect ones cannot sleep
+> - How to know what part of the environment to change
+>   - Do we just try and error until finding the nice spot and save the data???
+>   - Or we can try to use the brain activity to find specific variable to change
 > - 
 
 ***
