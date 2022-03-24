@@ -35,13 +35,14 @@ Example of symetric is *Substitution Cipher* or called **Caesar Cipher**
 
 ### 22<sup>nd</sup> March 2022
 
-To combat the problem, they introduced **PLayfair**  
+To combat the problem, they introduced **Playfair**  
 - They substitute by pair
 - They uses matrix as key; a 5x5 matrix
 - How do they contruct the matrix:
   - It started with keyword, it can be a word, a sentence, a paragraph, write it down
   - If there any character repeated, filter it out, only take the 1st apparance of the character
   - We consider I/J as a single letter, since we want only 25(5x5 matrix) but we have 26 alphabets
+    - Since I is a reasonable frequence letter, j is a low frequency letter, it chosen to combine as 1
   - So to do it better, we wrote down the whole alphabet first, then we cross the one appared in the keyword
   - After fill in the key matrix with the filtered keyword, we fill in the rest of the alphabet in order
 - How to encrpyt:
@@ -61,3 +62,9 @@ To combat the problem, they introduced **PLayfair**
 - The frequency of repeating letter is since it could be difference
 - But the repetion of same plaintext is still there
   - with condition the sequence of the pair is the same
+
+***
+
+
+
+
