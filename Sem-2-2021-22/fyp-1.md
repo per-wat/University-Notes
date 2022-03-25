@@ -57,13 +57,12 @@
 ### Related Work
 
 1. [The Process of Falling Asleep p. 3-8](https://sci-hub.se/10.1053/smrv.2001.0145)
-2. [Differences between EEG during thermal discomfort and thermal displeasure](https://www.sciencedirect.com/science/article/abs/pii/S0360132321006211)
-3. [EEG microstate when imagine movement of hand](https://sci-hub.se/10.1080/24699322.2017.1389404)
-4. [Telephatic Virtual Assistant](https://ieeexplore.ieee.org/abstract/document/8824886)
-5. [BCI in VR and IoT](https://sci-hub.se/10.1109/ACCESS.2018.2809453)
-6. [Brain–Computer Interface (BCI) Control of a Virtual Assistant in a Smartphone to Manage Messaging Applications](assets/BCI-control-of-virtual-assistant.pdf)
-7. [Rasberry Pi IoT github repo](https://github.com/WebThingsIO/wiki/wiki)
-8. [Using Passive BCI to Online Control Air Cond](assets/Using_passive_BCI_to_online_control_the_air_conditioner_for_obtaining_the_individual_specific_thermal_comfort_.pdf)
+2. [EEG microstate when imagine movement of hand](https://sci-hub.se/10.1080/24699322.2017.1389404)
+3. [Telephatic Virtual Assistant](https://ieeexplore.ieee.org/abstract/document/8824886)
+4. [BCI in VR and IoT](https://sci-hub.se/10.1109/ACCESS.2018.2809453)
+5. [Brain–Computer Interface (BCI) Control of a Virtual Assistant in a Smartphone to Manage Messaging Applications](assets/BCI-control-of-virtual-assistant.pdf)
+6. [Rasberry Pi IoT github repo](https://github.com/WebThingsIO/wiki/wiki)
+7. [Using Passive BCI to Online Control Air Cond](assets/Using_passive_BCI_to_online_control_the_air_conditioner_for_obtaining_the_individual_specific_thermal_comfort_.pdf)
 
 ***
 
