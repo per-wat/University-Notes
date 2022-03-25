@@ -14,45 +14,6 @@
 
 ***
 
-**Discuss With Dr. Hamwira**
-
-I need to think bout my title  
-My idea is splitted into 2
-
-> ### Idea 1
-> **Improving Sleep with Smart Home Automation using Brain Computer Interface**  
-> Creating an environment to help user fall asleep easier based on their brain activity  
-> Develop a system where it analyse user's brain and try to find the best way to help to sleep  
-> Things need to consider:  
-> - How can we detect ones cannot sleep
-> - How to know what part of the environment to change
->   - Do we just try and error until finding the nice spot and save the data???
->   - Or we can try to use the brain activity to find specific variable to change
-> - Sleep stage based on EEG activity article [The Process of Falling Asleep p. 3-8](https://sci-hub.se/10.1053/smrv.2001.0145)
-> - Cannot access article but might helpful [Differences between EEG during thermal discomfort and thermal displeasure](https://www.sciencedirect.com/science/article/abs/pii/S0360132321006211)
-
-> ### Idea 2
-> **Smart Home Control using Brain Computer Interface**  
-> Able to control IoT or smart home appliances by thinking  
-> Develop system to connect user's brain to their home  
-> For example, user just think to lower the AC, then it will do it  
-> Integration with existing smart home hub like *Google Assitant, Alexa*  
-> Things need to consider:  
-> - Can we distinguish percisely what user want from the EEG
-> - Does the intergration can be done from brain signal into words/voices that can be understood by them
-> - One cool article about [EEG microstate when imagine movement of hand](https://sci-hub.se/10.1080/24699322.2017.1389404)
-> - Controlling virtual assistant using BCI [article](assets/BCI-control-of-virtual-assistant.pdf)
-> - [Telephatic Virtual Assistant](https://ieeexplore.ieee.org/abstract/document/8824886)
-> - [BCI in VR and IoT](https://sci-hub.se/10.1109/ACCESS.2018.2809453)
-
-And remember to ask how do we demo it
-- Do we need to have every appliances during showcase
-- How can we demonstrate that our tech is working
-
-Last but not least ask **what he want in the FYP 1 report**
-
-***
-
 **Progress Report**
 
 - [ ] Project Information
@@ -90,6 +51,17 @@ Last but not least ask **what he want in the FYP 1 report**
 - [ ] Progress
   - Explain in what have you acieved
   - **DON'T LEAVE EMPTY!!!***
+
+***
+
+### Related Work
+
+1. [The Process of Falling Asleep p. 3-8](https://sci-hub.se/10.1053/smrv.2001.0145)
+2. [Differences between EEG during thermal discomfort and thermal displeasure](https://www.sciencedirect.com/science/article/abs/pii/S0360132321006211)
+3. [EEG microstate when imagine movement of hand](https://sci-hub.se/10.1080/24699322.2017.1389404)
+4. [Telephatic Virtual Assistant](https://ieeexplore.ieee.org/abstract/document/8824886)
+5. [BCI in VR and IoT](https://sci-hub.se/10.1109/ACCESS.2018.2809453)
+6. [Brain–Computer Interface (BCI) Control of a Virtual Assistant in a Smartphone to Manage Messaging Applications](assets/BCI-control-of-virtual-assistant.pdf)
 
 ***
 
