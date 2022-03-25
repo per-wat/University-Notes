@@ -62,6 +62,7 @@
 4. [Telephatic Virtual Assistant](https://ieeexplore.ieee.org/abstract/document/8824886)
 5. [BCI in VR and IoT](https://sci-hub.se/10.1109/ACCESS.2018.2809453)
 6. [Brain–Computer Interface (BCI) Control of a Virtual Assistant in a Smartphone to Manage Messaging Applications](assets/BCI-control-of-virtual-assistant.pdf)
+7. [Rasberry Pi IoT github repo](https://github.com/WebThingsIO/wiki/wiki)
 
 ***
 
