@@ -65,6 +65,11 @@ To combat the problem, they introduced **Playfair**
 
 ***
 
+### 29<sup>th</sup> March 2022
 
+**Polyalphabet**
 
-
+We have a set of alphabets, for example 3, then we will have 3 different arrangment of alphabets  
+Does repition work?
+- Yes, it still work with the case of it is in the same key arrangement
+- For example the falls, in 1,2,3 thus if the repeated word comes in the same position under the 1st one
