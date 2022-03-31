@@ -73,3 +73,25 @@ We have a set of alphabets, for example 3, then we will have 3 different arrangm
 Does repition work?
 - Yes, it still work with the case of it is in the same key arrangement
 - For example the falls, in 1,2,3 thus if the repeated word comes in the same position under the 1st one
+
+***
+
+### 31 <sup>st</sup> March 2022
+
+**Polyalphabet**
+
+Frequency
+ : Counting how many times an alphabet is appearing
+
+Kasiski Method
+ : **Guess** the size of the key
+ : By calculating the distance of repeated character in cyphertext (eg. 13, 64, 228)
+ : Repition only occur when it falls under the same key
+ : The distance is the multiple of the key
+ : So to find it we just factorise with prime factor
+ : Then get the greatest common divisor, thus it's the guess of size of the key
+ : Then we write down the cyphertext, according to the size
+ : ZHQ
+ : LKU
+ : IOP
+ : Example size of 3, then we just need to find like normal substitution
