@@ -95,3 +95,17 @@ Kasiski Method
  : LKU
  : IOP
  : Example size of 3, then we just need to find like normal substitution
+
+**Vigenere Cypher**
+- The simplest polyalphabet, we use **Vigenere Table**
+- where it list out every possible shift in **Caesar Cypher**
+- We repeat the key onto the plaintext
+- using the table, the row is the key, column is the plaintext, content is the cyphertext
+
+**Different of Vigenere and Poly**
+- Vigenere is all shift, but Poly is monoalphabet thus Poly is more complex
+
+- Based on 26<sup>9</sup> assumption, that we have the exact, we actually can solve decipher the whole ciphertext
+
+**Autokey Cipher**
+- We only use key once, after that we use plaintext as the key
