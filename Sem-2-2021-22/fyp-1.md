@@ -50,12 +50,9 @@
 ### Related Work
 
 1. [The Process of Falling Asleep p. 3-8](https://sci-hub.se/10.1053/smrv.2001.0145)
-3. [BCI in VR and IoT](https://sci-hub.se/10.1109/ACCESS.2018.2809453)
-4. [Brain–Computer Interface (BCI) Control of a Virtual Assistant in a Smartphone to Manage Messaging Applications](assets/BCI-control-of-virtual-assistant.pdf)
-5. [Rasberry Pi IoT github repo](https://github.com/WebThingsIO/wiki/wiki)
-6. [Using Passive BCI to Online Control Air Cond](assets/Using_passive_BCI_to_online_control_the_air_conditioner_for_obtaining_the_individual_specific_thermal_comfort_.pdf)
-7. [On the Use of the EMOTIV Cortex API to Control a Robotic Arm Using Raw EEG Signals Acquired from the EMOTIV Insight NeuroHeadset](https://sci-hub.se/10.1109/CHILECON47746.2019.8987541)
-8. [Home Automation using EMOTIV: Controlling TV by Brainwaves](assets/Home_Automation_using_EMOTIV_Controlling_TV_by_Brainwaves.pdf)
+2. [BCI in VR and IoT](https://sci-hub.se/10.1109/ACCESS.2018.2809453)
+3. [Rasberry Pi IoT github repo](https://github.com/WebThingsIO/wiki/wiki)
+4. [On the Use of the EMOTIV Cortex API to Control a Robotic Arm Using Raw EEG Signals Acquired from the EMOTIV Insight NeuroHeadset](https://sci-hub.se/10.1109/CHILECON47746.2019.8987541)
 
 ***
 
@@ -103,3 +100,6 @@
 
 1. [EEG microstate when imagine movement of hand](https://sci-hub.se/10.1080/24699322.2017.1389404)
 2. [Telephatic Virtual Assistant](https://ieeexplore.ieee.org/abstract/document/8824886)
+3. [Brain–Computer Interface (BCI) Control of a Virtual Assistant in a Smartphone to Manage Messaging Applications](assets/BCI-control-of-virtual-assistant.pdf)
+4. [Using Passive BCI to Online Control Air Cond](assets/Using_passive_BCI_to_online_control_the_air_conditioner_for_obtaining_the_individual_specific_thermal_comfort_.pdf)
+5. [Home Automation using EMOTIV: Controlling TV by Brainwaves](assets/Home_Automation_using_EMOTIV_Controlling_TV_by_Brainwaves.pdf)
