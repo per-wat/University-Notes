@@ -54,6 +54,7 @@
 3. [Rasberry Pi IoT github repo](https://github.com/WebThingsIO/wiki/wiki)
 4. [On the Use of the EMOTIV Cortex API to Control a Robotic Arm Using Raw EEG Signals Acquired from the EMOTIV Insight NeuroHeadset](https://sci-hub.se/10.1109/CHILECON47746.2019.8987541)
 5. [A Smart Home Automation technique with Raspberry Pi using IoT](https://ieeexplore.ieee.org/abstract/document/7873584)
+6. [Smart Home Control by using Raspberry Pi & Arduino UNO](assets/Smart_Home_Control_by_using_Raspberry_Pi.pdf)
 
 ***
 
