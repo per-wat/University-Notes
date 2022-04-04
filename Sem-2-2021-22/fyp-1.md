@@ -2,15 +2,8 @@
 
 ## TO DO LIST
 
-**31<sup>st</sup> March 2022**
-- [ ] Research or Development
-- [ ] Title
-  - Less than 10 words
-  - It should contains:
-    - The problem
-    - The method
-    - The output/solution
-- [ ] Description
+**7<sup>th</sup> April 2022**
+- Submit review of previous work to Dr. Hamwira
 
 ***
 
@@ -62,7 +55,7 @@
 5. [Rasberry Pi IoT github repo](https://github.com/WebThingsIO/wiki/wiki)
 6. [Using Passive BCI to Online Control Air Cond](assets/Using_passive_BCI_to_online_control_the_air_conditioner_for_obtaining_the_individual_specific_thermal_comfort_.pdf)
 7. [On the Use of the EMOTIV Cortex API to Control a Robotic Arm Using Raw EEG Signals Acquired from the EMOTIV Insight NeuroHeadset](https://sci-hub.se/10.1109/CHILECON47746.2019.8987541)
-8. 
+8. [Home Automation using EMOTIV: Controlling TV by Brainwaves](assets/Home_Automation_using_EMOTIV_Controlling_TV_by_Brainwaves.pdf)
 
 ***
 
