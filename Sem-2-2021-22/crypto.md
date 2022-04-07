@@ -109,3 +109,32 @@ Kasiski Method
 
 **Autokey Cipher**
 - We only use key once, after that we use plaintext as the key
+
+***
+
+### 7<sup>th</sup> April 2022
+
+**Transposition Cipher**
+
+- The another classification of cryptography is **Transposition**
+- This is still symetric 
+- We rearrange the letter not replacing them
+- Thus if we do frequency test, we will get the same result with the plaintext frequency test
+
+**Row Transposition**
+
+- Decide on the key, either word or permutation; eg 7, this will be the column
+- Then 1st person will write the plaintext in the rows
+- Extract the plaintext based on which column agreed to extracted first
+- Then send to 2nd person
+- Count the lenght of ciphertext and divide with column number
+- Then we seperate into groups with the result from before
+- When we have the groups, we arrange them based on the agreed permutation
+- After that we extract them out again
+
+**QnA**
+- Can we use incomplete frame
+  - Yes, we can, the decrypter can just divide, then the remainder will be the number of column that is empty
+  - Since we know the permutation, we will know which group will have less letter
+- Which one is better in term of complexity
+  - The incomplete one since the attacker don't have the permutation, they will have a hard time to know which one has less letters
