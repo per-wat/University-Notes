@@ -2,8 +2,8 @@
 
 ## TO DO LIST
 
-**7<sup>th</sup> April 2022**
-- Submit review of previous work to Dr. Hamwira
+**14<sup>th</sup> April 2022**
+- Submit diagrams to Dr. Hamwira
 
 ***
 
@@ -55,6 +55,15 @@
 4. [On the Use of the EMOTIV Cortex API to Control a Robotic Arm Using Raw EEG Signals Acquired from the EMOTIV Insight NeuroHeadset](https://sci-hub.se/10.1109/CHILECON47746.2019.8987541)
 5. [A Smart Home Automation technique with Raspberry Pi using IoT](https://ieeexplore.ieee.org/abstract/document/7873584)
 6. [Smart Home Control by using Raspberry Pi & Arduino UNO](assets/Smart_Home_Control_by_using_Raspberry_Pi.pdf)
+
+***
+
+### Resources
+
+- Raspberry Pi 3 Model B+
+- Emotiv Insight
+- Favoriot (Great platform to display and control IoT
+- 
 
 ***
 
