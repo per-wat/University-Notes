@@ -98,6 +98,18 @@
 
 ***
 
+> ### Differences between EEG during thermal discomfort and thermal displeasure
+> *Jieun Han, Chungyoon Chun*
+>
+> **Important Points**
+> - EEG changes based on thermal displeasure and discomfort have different tendencies.
+> - Beta and gamma powers increased and theta power decreased significantly by thermal displeasure.
+> - EEG power was increased at all frequencies by thermal discomfort.
+> - EEG changes are prominent with sudden temperature changes.
+> 
+
+***
+
 ### Extras
 
 1. [EEG microstate when imagine movement of hand](https://sci-hub.se/10.1080/24699322.2017.1389404)
