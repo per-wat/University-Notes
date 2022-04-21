@@ -87,6 +87,7 @@ Kasiski Method
  : **Guess** the size of the key
  : By calculating the distance of repeated character in cyphertext (eg. 13, 64, 228)
  : Repition only occur when it falls under the same key
+ : If we have multiple repition, we get the same multiple of the key
  : The distance is the multiple of the key
  : So to find it we just factorise with prime factor
  : Then get the greatest common divisor, thus it's the guess of size of the key
@@ -138,3 +139,27 @@ Kasiski Method
   - Since we know the permutation, we will know which group will have less letter
 - Which one is better in term of complexity
   - The incomplete one since the attacker don't have the permutation, they will have a hard time to know which one has less letters
+- Few rules of encryption
+  - Don't use same key more than once
+  - Break plain text into pieces
+
+***
+
+### 21<sup>st</sup> April 2022
+
+**One Time Pad**
+- Problem with classical cryptography, we can get information from it even a bit.
+- Have 3 characteristics
+  - Key is purely random
+    - Means that it cannot be repeated the output
+    - example coin toss
+    - Need to record to make sure receiver get the same key
+  - Key is as long as the plaintext mmessage
+    - The key will not be repeated
+  - Key should be use only once
+    - No any other message ecnrypted using the same key
+- This leads to no indication either if it's correct or not
+- Why people don't use one time pad?
+  - If you find a way to send the key securely, might as well send the message the same way
+- **Stream Cipher** is derived from One Time Pad
+  - There's only no pure random in Stream Cipher
