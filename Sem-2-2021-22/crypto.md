@@ -134,6 +134,7 @@ Kasiski Method
 - After that we extract them out again
 
 **QnA**
+
 - Can we use incomplete frame
   - Yes, we can, the decrypter can just divide, then the remainder will be the number of column that is empty
   - Since we know the permutation, we will know which group will have less letter
@@ -148,6 +149,7 @@ Kasiski Method
 ### 21<sup>st</sup> April 2022
 
 **One Time Pad**
+
 - Problem with classical cryptography, we can get information from it even a bit.
 - Have 3 characteristics
   - Key is purely random
@@ -163,3 +165,63 @@ Kasiski Method
   - If you find a way to send the key securely, might as well send the message the same way
 - **Stream Cipher** is derived from One Time Pad
   - There's only no pure random in Stream Cipher
+
+***
+
+### 12<sup>th</sup> May 2022
+
+**DES**
+
+**MEMORIZE DEFINITION**
+
+Confusion
+: Removing the relation between the key and the cipher / obscured
+: One of the example is substituition
+
+Diffusion
+: If you change 1 bit from the plain, it will affect many bits from the cipher
+: One of the example is permutation
+
+**What is DES?**
+
+- Input is 64, and the output is 64, but the key is 56bit
+- DES will do **16 operations** onto 1 block of input
+- Those operations are the confusion and diffusion
+
+**The Operation**
+
+- Plaintext will go into *permutation*
+- then will be splitted into 2 L0, R0
+- R0 will go directly into the next L1
+- L0 will b XOR with the output of the *f function* and will be the next R1
+- The inputs of the *f function* are the R0 and the key from the transformation
+- After going through the 16 rounds, it will end with *Final Permutation* (inverse of initial permutation)
+
+**The F Function**
+
+1. Expansion E
+- The initial input is 32 bits
+- Since we want to do XOR with the key we need 48 bits
+- Thus, we will expand to 48
+- Some of the bits will be repeated 
+2. XOR with round key
+- XOR 48bits of key with the Expansion output
+3. S-box Substituition
+- A table of 4 x 16
+- They have special design
+- The input 48 bits will be splitted into 8, leave 6 bits as inputs
+- The 1st and last bit is the row indcator, the 4 bits in the middle are the column indicator
+4. Permutation
+
+**Key Generation**
+
+- The initial key input is 64 bits or 8 bytes
+- The last bit in each bytes is excluded (parity bit)
+- Then we left with 56 bits
+- We will split into half
+- In rounds **i = 1,2,9,16** the key are rotated to the left by **one bit**
+- In other rounds, the key are rotated to the left by **two bits**
+- Then that will be that key round
+- This process will be repeated for 16 rounds
+
+***
