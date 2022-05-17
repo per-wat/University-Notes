@@ -225,3 +225,88 @@ Diffusion
 - This process will be repeated for 16 rounds
 
 ***
+
+### 17<sup>th</sup> May 2022
+
+**AES**
+
+- *National Institute of Standard and Technology* (NIST)announced a competition in 1997
+- The requirements are
+  - Block chipher with **128-bit block size**
+  - **3 supported key lenght** 128,192,256
+  - **Efficient** in software and hardware
+- 15 candidates accepted in 1998
+- 5 finalists announced in 1999
+  - Mars - IBM Corporation
+  - RC6 - RSA Lab
+  - Rjindael - J. Daemen & V. Rijmen
+  - Serpent - Eli BIham et al.
+  - Twofish - B. Schneier et al.
+- October 2000, Rjindael was chosen with the AES
+- Become federal standard in November 2001
+
+**Overview**
+
+- Input and output are **128 bits**
+- Key length - rounds
+  - 128 - 10
+  - 192 - 12
+  - 256 - 14
+
+**Internal Structure of AES**
+
+- AES are byte-oriented
+- 128 bits are arranged into 16 bytes of 4x4 matrix
+- Will go through **Byte Substitution**, **Shift rows**, **Mix Column**, **Key Addition**
+- In the last round, Mix Column is **omitted**
+
+**Byte Substitution Layer**
+
+- Consist 16 **S-Boxes** that are *identical*
+- unique S-Box
+- uses lookup table
+
+**Diffusion Layer**
+
+- Consist of 2 sublayers
+  - ShiftRows Sublayer
+    - Permutation of data on byte level
+    - Based on the input matrix, it will be shifted
+    - 1st row: no shift
+    - 2nd row: shift left by 1
+    - 3rd row: shift left by 2
+    - 4th row: shift left by 3
+  - MixColumn Sublayer
+    - Matrix operation which combines blocks of 4 bytes
+    - Each 4-byte column will be taken and multiplied with fixed 4x4 matrix
+
+**Key Addition Layer**
+
+- Inputs are 16-byte matrix and 16-byte subkey
+- Output are the XOR
+
+**Key Schedule**
+
+- Each round has 1 subkey, plus 1 subkey at the begining
+- Thus total of subkey is plus 1 of rounds
+- There are different key schedules???
+- Example for 128-bits or 16-bytes
+  - Will be divided into word (each word consist 32-bits or 4-bytes)
+  - First subkey W[0] ... W[3] is the original AES key
+  - Then W[0] will be XOR with W[3] that gone through *g-fx* and become the next W[0] (W[4])
+  - W[1] will be XOR with W[0] to become the next W[1] (W[5])
+  - and the rest is like mentioned above
+  - Ask more about the *g-fx* 
+
+**Decryption**
+
+- AES is not based on *Feistel Network* like DES
+- Thus all layers need to inverted
+- Inv MixColumn Layer
+  - Inverse of the 4x4 matrix that is used to multipled
+- Inv ShiftRows Layer
+  - Instead of shifting left, it will **shift right**
+- Inv S-Box
+  - Just a built inverse S-Box, no need to memorize
+
+***
