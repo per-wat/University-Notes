@@ -256,7 +256,7 @@ Diffusion
 **Internal Structure of AES**
 
 - AES are byte-oriented
-- 128 bits are arranged into 16 bytes of 4x4 matrix
+- 128 bits are arranged into 16 bytes of 4x4 matrix **column wise**
 - Will go through **Byte Substitution**, **Shift rows**, **Mix Column**, **Key Addition**
 - In the last round, Mix Column is **omitted**
 
@@ -294,7 +294,7 @@ Diffusion
   - Will be divided into word (each word consist 32-bits or 4-bytes)
   - First subkey W[0] ... W[3] is the original AES key
   - Then W[0] will be XOR with W[3] that gone through *g-fx* and become the next W[0] (W[4])
-  - W[1] will be XOR with W[0] to become the next W[1] (W[5])
+  - W[1] will be XOR with the output above from W[0] to become the next W[1] (W[5])
   - and the rest is like mentioned above
   - Ask more about the *g-fx* 
 
@@ -308,5 +308,11 @@ Diffusion
   - Instead of shifting left, it will **shift right**
 - Inv S-Box
   - Just a built inverse S-Box, no need to memorize
+
+***
+
+### 19<sup>th</sup> May 2022
+
+
 
 ***
